@@ -79,12 +79,12 @@ window.SITE_SETTINGS = {
       alt: "A bright green minigame with numbered blocks"
     },
     create: {
-      src: "./images/api-6.jpg",
-      alt: "Vanilla Rec Room Create splash with an avatar holding a paintball blaster"
+      src: "./images/api.jpg",
+      alt: "Vanilla Rec Room avatar in a room"
     },
     gettingStarted: {
-      src: "./images/api-5.jpg",
-      alt: "Vanilla Rec Room Getting Started splash with an avatar wearing VR glasses"
+      src: "./images/api-2.jpg",
+      alt: "Player standing in the Vanilla Rec Room lobby"
     }
   },
 
